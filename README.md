@@ -20,6 +20,41 @@
 <body>
 
 	<div id="container">
+	
+	<!-- Logo -->
+	
+		<div id="header">
+		</div>
+		
+	<!-- 4 tiles with option -->
+	
+		<div id="square">
+		
+			<div class="tile"
+			</div>
+			
+			<div class="tile"
+			</div>
+			
+			<div class="tile"
+			</div>
+			
+			<div class="tile"
+			</div>
+			
+		
+		</div>
+	
+	<!-- Content of the tile -->
+	
+		<div id="content">
+		</div>
+		
+	<!-- Footer -->
+	
+		<div id="footer">
+		</div>
+		
 	</div>
 
 </body>
